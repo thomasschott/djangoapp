@@ -1,5 +1,5 @@
-export DBHOST="localhost"
-export DBUSER="manager"
-export DBNAME="pollsdb"
-export DBPASS="supersecretpass"
-
+export DBHOST=""
+export DBUSER=""
+export DBNAME=""
+export DBPASS=""
+export DJANGO_SETTINGS_MODULE="azuresite.mssql"
