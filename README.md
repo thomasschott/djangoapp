@@ -25,4 +25,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 # MSSQL changes
 Install sources code ODBC before `pip install`
+
+```bash
 sudo apt install g++ unixodbc-dev
+```
